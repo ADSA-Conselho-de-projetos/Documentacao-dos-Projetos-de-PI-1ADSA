@@ -246,12 +246,12 @@ Cada grupo desenvolve **7 entregáveis**:
 
 | # | Nome | GitHub | Papel |
 |:-:|------|--------|-------|
-| 1 | Igor Pereira ⭐ | [@usuario](https://github.com/igor-fuchs01) | Representante |
-| 2 | Gregory Casarini | [@usuario](https://github.com/casarinigreg) | |
-| 3 | Luann Mariano | [@usuario](https://github.com/LuannMarianoSPTech) | |
-| 4 | Guilherme Rosa | [@usuario](https://github.com/usuario) | |
-| 5 | Kauã Aguas | [@usuario](https://github.com/kaua-augusto) | |
-| 6 | Matheus Santos | [@usuario](https://github.com/GuiBre07) | |
+| 1 | Igor Pereira ⭐ | [@igor-fuchs01](https://github.com/igor-fuchs01) | Representante |
+| 2 | Gregory Casarini | [@casarinigreg](https://github.com/casarinigreg) | |
+| 3 | Luann Mariano | [@LuannMarianoSPTech](https://github.com/LuannMarianoSPTech) | |
+| 4 | Guilherme Rosa | [@GuiBre07](https://github.com/usuario) | |
+| 5 | Kauã Aguas | [@kaua-augusto](https://github.com/kaua-augusto) | |
+| 6 | Matheus Santos | [@mtSanttos](https://github.com/GuiBre07) | |
 
 #### 📊 Progresso dos entregáveis
 

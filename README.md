@@ -49,7 +49,7 @@ Cada grupo desenvolve **7 entregáveis**:
 | Nº | Representante | Projeto | Documentação | Progresso geral |
 |:--:|---------------|---------|:------------:|:---------------:|
 | 01 | representante1@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-01/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| 02 | representante2@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-02/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| 02 | gustavo.jsilva@sptech.school | Amonia-Sense | [📄 Abrir](https://bandteccom.sharepoint.com/:w:/s/AmoniaSense/IQA_G7gx2sS7S5kiSyteYeEWAcW7cWmSVaO3cPQ8C6_SxPo?e=79Krst) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | 03 | pietro.silva@sptech.school | Anzentech | [📄 Abrir](https://docs.google.com/document/d/1pdQKy8AzcwAWBD0h7AzsXSj9r58nsI2C3lmAa_Spp8Q/edit?usp=sharing) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | 04 | julia.bsantos@sptech.school | CoffeeTech | [📄 Abrir](./grupos/grupo-04/documentacao/) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | 05 | enzo.bento@sptech.school | Cog Solutions | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/enzo_bento_sptech_school/IQAN4ZuB5iQDT5Slp7y-Jzm6AeEP08f_hE3fA4Waf_6eVE8?e=tI92Vh) | `▰▰▰▰▱▱▱▱▱▱ 40%` |

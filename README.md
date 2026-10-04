@@ -274,7 +274,7 @@ Cada grupo desenvolve **7 entregáveis**:
 
 | # | Nome | GitHub | Papel |
 |:-:|------|--------|-------|
-| 1 | Fernando Mateus ⭐ | [@usuario](https://github.com/FerKaGe) | Representante |
+| 1 | Fernando Mateus ⭐ | [@FerKaGe](https://github.com/FerKaGe) | Representante |
 | 2 | Paulo Vinícius | [@paulovpa](https://github.com/paulovpa) | |
 | 3 | Viviane Marques | [@viviane-marques](https://github.com/vmarquesss) | |
 | 4 | Marcos Vinícius | [@MarcosVMFe](https://github.com/MarcosVMFe) | |

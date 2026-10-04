@@ -275,11 +275,11 @@ Cada grupo desenvolve **7 entregáveis**:
 | # | Nome | GitHub | Papel |
 |:-:|------|--------|-------|
 | 1 | Fernando Mateus ⭐ | [@usuario](https://github.com/FerKaGe) | Representante |
-| 2 | Paulo Vinícius | [@usuario](https://github.com/paulovpa) | |
-| 3 | Viviane Marques | [@usuario](https://github.com/vmarquesss) | |
-| 4 | Marcos Vinícius | [@usuario](https://github.com/MarcosVMFe) | |
+| 2 | Paulo Vinícius | [@paulovpa](https://github.com/paulovpa) | |
+| 3 | Viviane Marques | [@viviane-marques](https://github.com/vmarquesss) | |
+| 4 | Marcos Vinícius | [@MarcosVMFe](https://github.com/MarcosVMFe) | |
 | 5 | Davi Borges | [@usuario](https://github.com/usuario) | |
-| 6 | Leonardo Linge | [@usuario](https://github.com/LeonardoVieiraLinge) | |
+| 6 | Leonardo Linge | [@LeonardoVieiraLinge](https://github.com/LeonardoVieiraLinge) | |
 
 #### 📊 Progresso dos entregáveis
 

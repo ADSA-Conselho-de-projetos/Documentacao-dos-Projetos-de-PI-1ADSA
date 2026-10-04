@@ -218,7 +218,7 @@ Cada grupo desenvolve **7 entregáveis**:
 
 | # | Nome | GitHub | Papel |
 |:-:|------|--------|-------|
-| 1 | Nome Sobrenome ⭐ | [@usuario](https://github.com/usuario) | Representante |
+| 1 | Luca Yamamura ⭐ | [@LucaKenzo](https://github.com/LucaKenzo) | Representante |
 | 2 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
 | 3 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
 | 4 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |

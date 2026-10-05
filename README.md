@@ -56,7 +56,7 @@ Cada grupo desenvolve **7 entregáveis**:
 | 06 | representante6@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-06/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 07 | igor.pereira@sptech.school | Blue Cheese Solutions | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/igor_pereira_sptech_school/IQCqt9FMeYdbRJukiGQAj8gjAfKs-cL8G7m08feIw0PGads?e=Yv3O12) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | 08 | fernando.msantos@sptech.school | Smart Coleta | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/fernando_msantos_sptech_school/IQBgYFzYGE4cR62PtyrxkYK4AQIQ046uK4XQKF2weq4y2go?e=SzoRSj) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
-| 09 | representante9@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-09/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| 09 | kevin.asilva@sptech.school | SISTEMA DE MONITORAMENTO IoT DE LUMINOSIDADE PARA CULTIVO OUTDOOR DE VANILLA PLANIFOLIA EM ESTUFA TELADA | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/kevin_asilva_sptech_school/IQDoUfa1cmv2RaHZIpImusoeAbAqrt7CdybdZgUUNdcOnvc?e=mp5OWr) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 10 | vitor.tsumura@sptech.school | Tetria | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/r/personal/giovanna_carneiro_sptech_school/_layouts/15/Doc.aspx?sourcedoc=%7BE60FDCD6-4658-4F42-B56B-CF1EEED6D70D%7D&file=Abelha%20Jata%25u00ed.docx&fromShare=true&action=default&mobileredirect=true) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | 11 | nickolas.silva@sptech.school | MaqTemp | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/r/personal/thayssa_souza_sptech_school/_layouts/15/Doc.aspx?sourcedoc=%7BD5355AEE-9CED-4782-84B5-F976EA4B685D%7D&file=Documentacao_Projeto_TI_MaqTemp_Grupo7.docx&fromShare=true&action=default&mobileredirect=true) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 
@@ -296,29 +296,29 @@ Cada grupo desenvolve **7 entregáveis**:
 </details>
 
 <details>
-<summary><b>Grupo 09</b> — Nome do projeto · 6 integrantes</summary>
+<summary><b>Grupo 09</b> — SISTEMA DE MONITORAMENTO IoT DE LUMINOSIDADE PARA CULTIVO OUTDOOR DE VANILLA PLANIFOLIA EM ESTUFA TELADA · 6 integrantes</summary>
 
 #### 🧑‍🤝‍🧑 Integrantes
 
 | # | Nome | GitHub | Papel |
 |:-:|------|--------|-------|
-| 1 | Nome Sobrenome ⭐ | [@usuario](https://github.com/usuario) | Representante |
-| 2 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 3 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 4 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 5 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 6 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 1 | Kevin Alves ⭐ | [@kevinz138](https://github.com/kevinz138) | Representante |
+| 2 | Alexandriny Miguel | [@alexandriny2006](https://github.com/alexandriny2006) | |
+| 3 | Isabelle Silva | [@IsaBacco](https://github.com/IsaBacco) | |
+| 4 | Lucas Morelli | [@LucasMorellideOliveira](https://github.com/LucasMorellideOliveira) | |
+| 5 | Gabriel Figueiredo | [@figuegab](https://github.com/figuegab) | |
+| 6 | Gabriel Barbosa | [@Gabriel6607](https://github.com/Gabriel6607) | |
 
 #### 📊 Progresso dos entregáveis
 
 | Entregável | Progresso |
 |------------|:---------:|
-| Contexto | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Protótipo do site | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Banco de dados | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Simulador financeiro | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Documentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Site final | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Contexto | `▰▰▰▰▰▰▰▰▰▰ 100%` |
+| Protótipo do site | `▰▰▰▰▰▰▰▰▱▱ 80% ` |
+| Banco de dados | `▰▰▰▰▰▱▱▱▱▱ 50%` |
+| Simulador financeiro | `▰▰▰▰▰▱▱▱▱▱ 50%` |
+| Documentação | `▰▰▰▰▰▰▰▱▱▱ 70%` |
+| Site final | `▰▰▰▰▰▰▱▱▱▱ 60%` |
 | Apresentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 
 </details>

@@ -33,7 +33,6 @@ Cada grupo desenvolve **7 entregáveis**:
 
 | # | Entregável |
 |:-:|------------|
-
 | 1 | Contexto |
 | 2 | Protótipo do site |
 | 3 | Banco de dados |

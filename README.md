@@ -51,7 +51,7 @@ Cada grupo desenvolve **7 entregáveis**:
 | 02 | gustavo.jsilva@sptech.school | Amonia-Sense | [📄 Abrir](https://bandteccom.sharepoint.com/:w:/s/AmoniaSense/IQA_G7gx2sS7S5kiSyteYeEWAcW7cWmSVaO3cPQ8C6_SxPo?e=79Krst) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | 03 | pietro.silva@sptech.school | Anzentech | [📄 Abrir](https://docs.google.com/document/d/1pdQKy8AzcwAWBD0h7AzsXSj9r58nsI2C3lmAa_Spp8Q/edit?usp=sharing) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | 04 | julia.bsantos@sptech.school | CoffeeTech | [📄 Abrir](./grupos/grupo-04/documentacao/) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
-| 05 | enzo.bento@sptech.school | Cog Solutions | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/enzo_bento_sptech_school/IQAN4ZuB5iQDT5Slp7y-Jzm6AeEP08f_hE3fA4Waf_6eVE8?e=tI92Vh) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
+| 05 | enzo.bento@sptech.school | Cog Solutions | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/enzo_bento_sptech_school/IQAN4ZuB5iQDT5Slp7y-Jzm6AeEP08f_hE3fA4Waf_6eVE8?e=tI92Vh) | `▰▰▰▰▰▰▱▱▱▱ 60%` |
 | 06 | representante6@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-06/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 07 | igor.pereira@sptech.school | Blue Cheese Solutions | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/igor_pereira_sptech_school/IQCqt9FMeYdbRJukiGQAj8gjAfKs-cL8G7m08feIw0PGads?e=Yv3O12) | `▰▰▰▰▰▰▱▱▱▱ 60%` |
 | 08 | fernando.msantos@sptech.school | Smart Coleta | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/fernando_msantos_sptech_school/IQBgYFzYGE4cR62PtyrxkYK4AQIQ046uK4XQKF2weq4y2go?e=SzoRSj) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
@@ -183,29 +183,29 @@ Cada grupo desenvolve **7 entregáveis**:
 </details>
 
 <details>
-<summary><b>Grupo 05</b> — Nome do projeto · 6 integrantes</summary>
+<summary><b>Grupo 05</b> — Cog Solutions - Monitoramento de Umidade do Substrato, do Ar e de Temperatura em Ambientes de Cultivo de Champignon Paris · 6 integrantes</summary>
 
 #### 🧑‍🤝‍🧑 Integrantes
 
 | # | Nome | GitHub | Papel |
 |:-:|------|--------|-------|
-| 1 | Nome Sobrenome ⭐ | [@usuario](https://github.com/usuario) | Representante |
-| 2 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 3 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 4 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 5 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 6 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 1 | Enzo Fuchs ⭐ | [@usuario](https://github.com/enzofuchsb) | Representante |
+| 2 | Mariana Oliveira | [@usuario](https://github.com/MarianaOLR) | |
+| 3 | Vitor Alexandre | [@usuario](https://github.com/vitor-oarevalo) | |
+| 4 | Paulo Henrique | [@usuario](https://github.com/paulodesouza-dev) | |
+| 5 | Christian Miranda | [@usuario](https://github.com/christian-miranda2007) | |
+| 6 | Victor Dos Passos | [@usuario](https://github.com/Passos2000) | |
 
 #### 📊 Progresso dos entregáveis
 
 | Entregável | Progresso |
 |------------|:---------:|
-| Contexto | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Protótipo do site | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Banco de dados | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Simulador financeiro | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Documentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Site final | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Contexto | `▰▰▰▰▰▰▰▱▱▱ 70%` |
+| Protótipo do site | `▰▰▰▰▰▰▰▰▱▱ 80%` |
+| Banco de dados | `▰▰▰▰▰▰▰▱▱▱ 70%` |
+| Simulador financeiro | `▰▰▰▰▰▰▰▰▰▱ 90%` |
+| Documentação | `▰▰▰▰▰▰▰▰▱▱ 80%` |
+| Site final | `▰▰▰▰▰▰▰▱▱▱ 70%` |
 | Apresentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 
 </details>

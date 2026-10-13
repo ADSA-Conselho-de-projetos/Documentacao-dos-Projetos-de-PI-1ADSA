@@ -47,7 +47,7 @@ Cada grupo desenvolve **7 entregáveis**:
 
 | Nº | Representante | Projeto | Documentação | Progresso geral |
 |:--:|---------------|---------|:------------:|:---------------:|
-| 01 | manoel.silvano@sptech.school | Infoconnect | [📄 Abrir]([./grupos/grupo-01/documentacao/](https://bandteccom-my.sharepoint.com/:w:/g/personal/manoel_silvano_sptech_school/IQB_I7J8Z4pZR7Vt52Mk0WKcATiV6xUBWNhIwCvOBHfhT0k?e=zIBIRV)) | `▰▰▰▰▰▱▱▱▱▱ 50%` |
+| 01 | manoel.silvano@sptech.school | Infoconnect | [📄 Abrir]([./grupos/grupo-01/documentacao/](https://bandteccom-my.sharepoint.com/:w:/g/personal/manoel_silvano_sptech_school/IQDWc5jiA2lSTbRmQQLJk-GMATtUKF_jFGESV-iRAtlC_xs?e=cSjmPj)) | `▰▰▰▰▰▰▰▱▱▱ 70%` |
 | 02 | gustavo.jsilva@sptech.school | Amonia-Sense | [📄 Abrir](https://bandteccom.sharepoint.com/:w:/s/AmoniaSense/IQA_G7gx2sS7S5kiSyteYeEWAcW7cWmSVaO3cPQ8C6_SxPo?e=79Krst) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | 03 | pietro.silva@sptech.school | Anzentech | [📄 Abrir](https://docs.google.com/document/d/1pdQKy8AzcwAWBD0h7AzsXSj9r58nsI2C3lmAa_Spp8Q/edit?usp=sharing) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | 04 | julia.bsantos@sptech.school | CoffeeTech | [📄 Abrir](./grupos/grupo-04/documentacao/) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
@@ -74,12 +74,13 @@ Cada grupo desenvolve **7 entregáveis**:
 
 | # | Nome | GitHub | Papel |
 |:-:|------|--------|-------|
-| 1 | Nome Sobrenome ⭐ | [@usuario](https://github.com/usuario) | Representante |
-| 2 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 3 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 4 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 5 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 6 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 1 | Manoel Alves ⭐ | [@usuario](https://github.com/Manoel-Alves21) | Representante |
+| 2 | Fabrício Lima | [@usuario](https://github.com/oFabs-dev) | |
+| 3 | Bianca Melo | [@usuario](https://github.com/bmelo-sptech) | |
+| 4 | Patrick Scaglia | [@usuario](https://github.com/yPatrick0) | |
+| 5 | Alexandre Villarroel| [@usuario](https://github.com/Sterben-ac) | |
+| 6 | Thiago Prado | [@usuario](https://github.com/Thiago-Prado-Da-Silva) | |
+| 7 | Vitor Dias | [@usuario](https://github.com/vitordias2008) | |
 
 #### 📊 Progresso dos entregáveis
 

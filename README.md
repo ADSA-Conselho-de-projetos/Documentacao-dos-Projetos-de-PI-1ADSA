@@ -50,7 +50,7 @@ Cada grupo desenvolve **7 entregáveis**:
 | 01 | manoel.silvano@sptech.school | Infoconnect | [📄 Abrir]([./grupos/grupo-01/documentacao/](https://bandteccom-my.sharepoint.com/:w:/g/personal/manoel_silvano_sptech_school/IQDWc5jiA2lSTbRmQQLJk-GMATtUKF_jFGESV-iRAtlC_xs?e=cSjmPj)) | `▰▰▰▰▰▰▰▱▱▱ 70%` |
 | 02 | gustavo.jsilva@sptech.school | Amonia-Sense | [📄 Abrir](https://bandteccom.sharepoint.com/:w:/s/AmoniaSense/IQA_G7gx2sS7S5kiSyteYeEWAcW7cWmSVaO3cPQ8C6_SxPo?e=79Krst) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | 03 | pietro.silva@sptech.school | Anzentech | [📄 Abrir](https://docs.google.com/document/d/1pdQKy8AzcwAWBD0h7AzsXSj9r58nsI2C3lmAa_Spp8Q/edit?usp=sharing) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
-| 04 | julia.bsantos@sptech.school | CoffeeTech | [📄 Abrir](./grupos/grupo-04/documentacao/) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
+| 04 | julia.bsantos@sptech.school | CoffeeTech | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/julia_bsantos_sptech_school/IQBOTKKde-VrRLdML1pMiimxAZ4IKQYrDErZ1yde8GPFSow?e=lZ4E7W) | `▰▰▰▰▰▰▰▰▱▱ 80%` |
 | 05 | enzo.bento@sptech.school | Cog Solutions | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/enzo_bento_sptech_school/IQAN4ZuB5iQDT5Slp7y-Jzm6AeEP08f_hE3fA4Waf_6eVE8?e=tI92Vh) | `▰▰▰▰▰▰▱▱▱▱ 60%` |
 | 06 | representante6@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-06/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 07 | igor.pereira@sptech.school | Blue Cheese Solutions | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/igor_pereira_sptech_school/IQCqt9FMeYdbRJukiGQAj8gjAfKs-cL8G7m08feIw0PGads?e=Yv3O12) | `▰▰▰▰▰▰▱▱▱▱ 60%` |
@@ -155,6 +155,8 @@ Cada grupo desenvolve **7 entregáveis**:
 <details>
 <summary><b>Grupo 04</b> — CoffeeTech · 7 integrantes</summary>
 
+| Link do repositório: [📄 Abrir](https://github.com/CoffeeTech-Sprint2/CoffeeTech_Sprint2) |
+
 #### 🧑‍🤝‍🧑 Integrantes
 
 | # | Nome | GitHub | Papel |
@@ -173,13 +175,15 @@ Cada grupo desenvolve **7 entregáveis**:
 
 | Entregável | Progresso |
 |------------|:---------:|
-| Contexto | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Contexto | `▰▰▰▰▰▰▰▰▰▰ 100% ` |
 | Protótipo do site | `▰▰▰▰▰▰▰▰▰▰ 100% ` |
-| Banco de dados | `▰▰▰▰▰▰▰▰▰▱ 90%` |
-| Simulador financeiro | `▰▰▰▰▰▰▰▱▱▱ 70%` |
-| Documentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Site final | `▰▰▰▰▱▱▱▱▱▱ 40%` |
+| Banco de dados | `▰▰▰▰▰▰▰▰▰▰ 100% ` |
+| Simulador financeiro | `▰▰▰▰▰▰▰▰▰▱ 90% ` |
+| Documentação | `▰▰▰▰▰▰▰▰▰▰ 100% ` |
+| Site final | ` ▰▰▰▰▰▰▰▰▰▱ 90%` |
 | Apresentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+
+
 
 </details>
 

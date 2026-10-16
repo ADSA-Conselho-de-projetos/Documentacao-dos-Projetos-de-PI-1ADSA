@@ -57,7 +57,7 @@ Cada grupo desenvolve **7 entregáveis**:
 | 08 | fernando.msantos@sptech.school | Smart Coleta | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/fernando_msantos_sptech_school/IQBgYFzYGE4cR62PtyrxkYK4AQIQ046uK4XQKF2weq4y2go?e=SzoRSj) | `▰▰▰▰▰▰▰▱▱▱ 70%` |
 | 09 | kevin.asilva@sptech.school | SISTEMA DE MONITORAMENTO IoT DE LUMINOSIDADE PARA CULTIVO OUTDOOR DE VANILLA PLANIFOLIA EM ESTUFA TELADA | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/kevin_asilva_sptech_school/IQDoUfa1cmv2RaHZIpImusoeAbAqrt7CdybdZgUUNdcOnvc?e=mp5OWr) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 10 | vitor.tsumura@sptech.school | Tetria | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/r/personal/giovanna_carneiro_sptech_school/_layouts/15/Doc.aspx?sourcedoc=%7BE60FDCD6-4658-4F42-B56B-CF1EEED6D70D%7D&file=Abelha%20Jata%25u00ed.docx&fromShare=true&action=default&mobileredirect=true) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
-| 11 | nickolas.silva@sptech.school | MaqTemp | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/r/personal/thayssa_souza_sptech_school/_layouts/15/Doc.aspx?sourcedoc=%7BD5355AEE-9CED-4782-84B5-F976EA4B685D%7D&file=Documentacao_Projeto_TI_MaqTemp_Grupo7.docx&fromShare=true&action=default&mobileredirect=true) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
+| 11 | nickolas.silva@sptech.school | MaqTemp | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/r/personal/thayssa_souza_sptech_school/_layouts/15/Doc.aspx?sourcedoc=%7BD5355AEE-9CED-4782-84B5-F976EA4B685D%7D&file=Documentacao_Projeto_TI_MaqTemp_Grupo7.docx&fromShare=true&action=default&mobileredirect=true) | `▰▰▰▰▰▰▰▰▱▱ 80%` |
 
 > O **progresso geral** é a média simples dos 7 entregáveis do grupo (veja os detalhes abaixo).
 
@@ -362,7 +362,7 @@ Cada grupo desenvolve **7 entregáveis**:
 
 | # | Nome | GitHub | Papel |
 |:-:|------|--------|-------|
-| 1 | Nickolas Merol ⭐ | [@usuario](https://github.com/Nickolas-Merola) | Representante |
+| 1 | Nickolas Merola ⭐ | [@usuario](https://github.com/Nickolas-Merola) | Representante |
 | 2 | Luis Otavio| [@usuario](https://github.com/LuisOtavioSptech) | |
 | 3 | Thayssa Santos | [@usuario](https://github.com/ThayssaMarques) | |
 | 4 | Willian Santuches | [@usuario](https://github.com/santuchess) | |
@@ -372,12 +372,12 @@ Cada grupo desenvolve **7 entregáveis**:
 
 | Entregável | Progresso |
 |------------|:---------:|
-| Contexto | `▰▰▰▰▰▱▱▱▱▱ 50%` |
-| Protótipo do site | `▰▰▰▰▰▱▱▱▱▱ 50%` |
-| Banco de dados | `▰▰▰▰▰▰▰▰▰▱ 90%` |
-| Simulador financeiro | `▰▰▰▰▱▱▱▱▱▱ 40%` |
-| Documentação | `▰▰▰▰▰▱▱▱▱▱ 50%` |
-| Site final | `▰▰▰▱▱▱▱▱▱▱ 30%` |
+| Contexto | `▰▰▰▰▰▰▰▰▰▰▱ 90%` |
+| Protótipo do site | `▰▰▰▰▰▰▰▰▱▱ 80%` |
+| Banco de dados | `▰▰▰▰▰▰▰▰▰▰ 100%` |
+| Simulador financeiro | `▰▰▰▰▰▰▰▰▱▱ 80%` |
+| Documentação | `▰▰▰▰▰▰▰▰▰▰ 100%` |
+| Site final | `▰▰▰▰▰▰▰▱▱▱ 70%` |
 | Apresentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 
 </details>
